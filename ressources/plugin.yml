@@ -1,0 +1,6 @@
+name: Hub
+author: MikaM06, MrShybiss
+version: 1.4.9
+main: mika.olicube.hub.Main
+website: https://www.opicube.com
+depend: [ PlaceholderAPI ]
