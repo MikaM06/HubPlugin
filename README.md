@@ -1,18 +1,20 @@
-# Plugin de Hub/Lobby compatible bungeecord.
-## Plugin crée par Moi & Shybiss.
+# Hub/Lobby Plugin Compatible with BungeeCord
+## Plugin Created by Myself & Shybiss
 
+Features:
 
-Dedans:
+> **Scoreboard**
+> **Server Selection Menu**
+> **Compatible with PlaceholderAPI & LuckPerms**
 
-> Scoreboard.
-> Menu (choix de seveur).
-> compatible placeholderapi & luckperms.
+Compatible with Minecraft Versions 1.8 & 1.8.9/1.8
 
-En Version 1.8 & 1.8.9/8
+Required Plugins:
 
-Plugin obligatoire:
+> :safety_pin: **PlaceholderAPI**: [Download Here](https://www.spigotmc.org/resources/placeholderapi.6245/)
+> :safety_pin: **LuckPerms**: [Download Here](https://luckperms.net/)
 
-> 🧷 Placeholderapi: https://www.spigotmc.org/resources/placeholderapi.6245/
-> 🧷 LuckPerms: https://luckperms.net/
+### About the Plugin:
+This plugin originated from a now-abandoned server created in 2022 called Opicube. It has been developed to enhance the hub/lobby experience, offering features such as a scoreboard, a server selection menu, and compatibility with PlaceholderAPI and LuckPerms. Feel free to explore the functionalities and make your server's hub more engaging for players.
 
-### ce plugin vien de un mais ancien serveur abbandoné crée en 2022 ce nommant Opicube.
+*Note: Make sure to install the required plugins (PlaceholderAPI and LuckPerms) for the proper functioning of this Hub/Lobby plugin.*
